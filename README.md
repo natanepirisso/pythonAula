@@ -23,5 +23,5 @@
 ## Autor
 
 - Instagram - [@natanepirisso](https://www.instagram.com/natanepirisso/)
--  https://www.linkedin.com/in/natanepirisso/
+- Linkedin - https://www.linkedin.com/in/natanepirisso/
 

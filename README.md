@@ -1,15 +1,6 @@
-# Aulas basicas de Python
-
-E aqui está a minha solução do [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+# Aulas básicas de Python
 
 ## Tabela de conteúdos
-
-- [Overview](#overview)
-  - [Como ficou](#resumo)
-- [Processo](#processo)
-  - [O que eu aprendi](#o-que-eu-aprendi)
-- [Autor](#autor)
-
 
 ## Overview
 

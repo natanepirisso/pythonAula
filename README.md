@@ -1,10 +1,13 @@
 # Aulas básicas de Python
 
+
 ## Resumo
+
 
 - **Basicamente fiz algumas implementações em python pra aprender bem sobre o basico hehe. Nada muito grande, apenas o necessário!**
 
 ## O que aprendi
+
 
 - **Boas práticas**
   

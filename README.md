@@ -1,7 +1,5 @@
 # Aulas básicas de Python
 
-## Tabela de conteúdos
-
 ## Overview
 
 ### Resumo

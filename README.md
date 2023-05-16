@@ -6,7 +6,7 @@
 
 ### Resumo
 
-- **Basicamente apenas fiz algumas implementações em python pra aprender bem sobre o basico hehe. Nada muito grande, apenas o necessário!**
+- **Basicamente fiz algumas implementações em python pra aprender bem sobre o basico hehe. Nada muito grande, apenas o necessário!**
 
 
 ## Processo

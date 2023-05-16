@@ -15,18 +15,18 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 
 ### Resumo
 
-  Basicamente apenas fiz algumas implementações em python pra aprender bem sobre o basico hehe. Nada muito grande, apenas o necessário!
+- **Basicamente apenas fiz algumas implementações em python pra aprender bem sobre o basico hehe. Nada muito grande, apenas o necessário!**
 
 
 ## Processo
 
 ### O que eu aprendi
 
-**Boas práticas**
+- **Boas práticas**
   
-**Basico de Python (input, print, imports, numerações, matematica..)**
+- **Basico de Python (input, print, imports, numerações, matematica..)**
 
-***Coisas mais especificas como randomização de lista, manipulação de caracteres, etc***
+- **Coisas mais especificas como randomização de lista, manipulação de caracteres, etc**
 
 
 ## Autor
